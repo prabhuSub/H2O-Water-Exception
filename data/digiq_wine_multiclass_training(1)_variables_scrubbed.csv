@@ -1,0 +1,2 @@
+unit_price_incl_tax,is_buyer,product_region_name,importer_name,offer_id,producing_winery_winedirect_upc,title,varietal_list,label_classification,utm_ft_keywords,product_title,product_winery_name,utm_lt_campaign_token,varietal,varietalcategory_name,product_style_name
+real,enum,enum,enum,enum,enum,enum,enum,enum,enum,enum,enum,enum,enum,enum,enum
